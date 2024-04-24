@@ -1,2 +1,2 @@
-# git-ignore
-A repository to save my gitIgnore setup
+# git-ignore DJANGO
+A repository to save my gitIgnore django setup
